@@ -1,0 +1,20 @@
+[submodule "ledger"]
+	path = ledger
+	url = git@github.com:guld-games/ledger.git
+	shallow = true
+	fetchRecurseSubmodules = false
+[submodule "io"]
+	path = io
+	url = git@github.com:guld-games/io.git
+	shallow = true
+	fetchRecurseSubmodules = false
+[submodule "Documents"]
+	path = Documents
+	url = git@github.com:guld-games/Documents.git
+	shallow = true
+	fetchRecurseSubmodules = false
+[submodule "Pictures"]
+	path = Pictures
+	url = git@github.com:guld-games/Pictures.git
+	shallow = true
+	fetchRecurseSubmodules = false
